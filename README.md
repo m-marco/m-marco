@@ -1,16 +1,49 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**m-marco/m-marco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Engenheiro de Software com mais de 7 anos de experiência** no desenvolvimento, manutenção e evolução de aplicações e sistemas.
 
-Here are some ideas to get you started:
+Tenho experiência com desenvolvimento **backend, frontend, APIs, bancos de dados, containers entre outras tecnologias**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias
+
+**Backend**
+- C# / .NET / ASP.NET Core
+- Node.js
+- PHP / Laravel
+
+**Frontend**
+- React
+- Vue.js
+- JavaScript / TypeScript
+- HTML / CSS
+
+**DevOps & Cloud**
+- Docker
+- CI/CD
+- Git / GitHub
+- AWS
+
+**Banco de Dados**
+- MySQL
+- SQL Server
+
+### 🛠️ O que faço
+
+- Desenvolvimento de APIs e aplicações web
+- Arquitetura e evolução de sistemas
+- Integração entre sistemas e serviços
+- Desenvolvimento frontend e backend
+- Bancos de dados e otimização de consultas
+- Containerização com Docker
+- Automação e pipelines de CI/CD
+- Manutenção, troubleshooting e melhoria de sistemas legados
+
+## 📌 Projetos
+
+- [Projeto 1](https://github.com/seu-usuario/projeto1)
+- [Projeto 2](https://github.com/seu-usuario/projeto2)
+
+## 📫 Contato
+
+[LinkedIn](...)
+[Site](https://devbras.com/)
